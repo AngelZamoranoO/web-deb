@@ -1,0 +1,46 @@
+
+body{
+    background-color: black;
+}
+
+.navbar-text {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 50px;
+}
+
+
+.icono {
+    color: beige;
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 20px;
+    clear: left;
+    text-align: center;
+    justify-content: space-around;
+    vertical-align: middle;
+    line-height: 10px;
+    position: relative;
+
+}
+
+.iconocantainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    margin: inline start 40px;
+
+
+}
+
+.fex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
